@@ -1,0 +1,6 @@
+$rsync -av /var/www/html ~/backup/daily
+
+sending incremental file list
+
+sent 82 bytes  received 17 bytes  198.00 bytes/sec
+total size is 11,321  speedup is 114.35
